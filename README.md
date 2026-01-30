@@ -1,39 +1,78 @@
-<p align="center">
-  <img src="assets/profile-pic.png" alt="Profile Picture" width="150" height="150" style="border-radius:100%;">
-</p>
-
-
 <h1 align="center">Hey 👋 I'm a Software Developer & DevOps Engineer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;DevOps+Engineer;Build+Deploy+Automate;2%2B+Years+Experience" />
 </p>
 
-###
 
+## <h2 align="center">🛠 Tech Stack</h2>
+
+<!-- Frontend -->
+<h3 align="center">💻 Frontend</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="TypeScript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="Redux logo" />
 </div>
 
-###
+<!-- Backend -->
+<h3 align="center">⚙️ Backend</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="60" alt="Django logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="60" alt="Django REST logo" />
+</div>
+
+<!-- Database -->
+<h3 align="center">🗄 Database</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=sql" height="60" alt="SQL logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
+</div>
+
+<!-- DevOps -->
+<h3 align="center">⚙️ DevOps</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub Actions logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="60" alt="Prometheus logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="60" alt="Grafana logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="Linux logo" />
+</div>
+
+<!-- OS -->
+<h3 align="center">🖥 OS</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=windows" height="60" alt="Windows logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux logo" />
+</div>
+
+
+
+
+
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
