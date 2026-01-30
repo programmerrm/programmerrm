@@ -1,4 +1,9 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 I'm a Software Developer & DevOps Engineer</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;DevOps+Engineer;2%2B+Years+Experience;Building+Production+Apps" />
+</p>
+
 
 ###
 
