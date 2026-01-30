@@ -1,8 +1,9 @@
 <h1 align="center">Hey 👋 I'm a Software Developer & DevOps Engineer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;DevOps+Engineer;Build+Deploy+Automate;2%2B+Years+Experience" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&color=00ff7f,ff1493&width=800&lines=Full+Stack+Developer;DevOps+Engineer;Build+Deploy+Automate;2%2B+Years+Experience" />
 </p>
+
 
 
 
