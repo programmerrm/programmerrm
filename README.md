@@ -1,9 +1,9 @@
+##
 <h1 align="center">Hey 👋 I'm a Software Developer & DevOps Engineer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;DevOps+Engineer;Build+Deploy+Automate;2%2B+Years+Experience" />
 </p>
-
 
 ## 
 <h2 align="center">🛠 Tech Stack</h2>
@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="60" alt="Redux logo" />
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="Django logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="60" alt="Django logo" />
   <span style="font-size:20px; margin-left:12px;">Django REST</span>
   <span style="font-size:20px;">SQL</span>
