@@ -1,15 +1,13 @@
-<h1 align="center">Hey 👋 I'm a Software Developer & DevOps Engineer</h1>
-
+<h1 align="center">Hi, I'm Rasel Mahmud 👋</h1>
+<h2 align="center">Software Developer & DevOps Engineer</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;DevOps+Engineer;Build+Deploy+Automate;2%2B+Years+Experience" />
-</p>
-
-<p align="center">
-  Hi, I'm Rasel Mahmud 👋<br>
   Diploma in CSE completed, currently pursuing BSc in CSE.<br>
   Passionate about building scalable web applications, automating workflows, and working with modern DevOps practices.
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;DevOps+Engineer;Build+Deploy+Automate;2%2B+Years+Experience" />
+</p>
 
 <h2 align="center">🛠 Tech Stack</h2>
 
