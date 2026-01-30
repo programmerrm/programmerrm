@@ -8,19 +8,12 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="JavaScript logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="TypeScript logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="60" alt="Redux logo" />
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python logo" />
   <img src="https://skillicons.dev/icons?i=django" height="60" alt="Django logo" />
