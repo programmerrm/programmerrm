@@ -5,10 +5,9 @@
 </p>
 
 
-## <h2 align="center">🛠 Tech Stack</h2>
+## 
+<h2 align="center">🛠 Tech Stack</h2>
 
-<!-- Frontend -->
-<h3 align="center">💻 Frontend</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML logo" />
   <img width="12" />
@@ -25,30 +24,15 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="60" alt="Redux logo" />
-</div>
-
-<!-- Backend -->
-<h3 align="center">⚙️ Backend</h3>
-<div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="60" alt="Django logo" />
   <span style="font-size:20px; margin-left:12px;">Django REST</span>
-</div>
-
-<!-- Database -->
-<h3 align="center">🗄 Database</h3>
-<div align="center">
   <span style="font-size:20px;">SQL</span>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
-</div>
-
-<!-- DevOps -->
-<h3 align="center">⚙️ DevOps</h3>
-<div align="center">
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" />
   <img width="12" />
   <span style="font-size:20px;">Docker-Compose</span>
@@ -60,15 +44,13 @@
   <img src="https://skillicons.dev/icons?i=prometheus" height="60" alt="Prometheus logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=grafana" height="60" alt="Grafana logo" />
-</div>
-
-<!-- OS -->
-<h3 align="center">🖥 OS</h3>
-<div align="center">
   <img src="https://skillicons.dev/icons?i=windows" height="60" alt="Windows logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux logo" />
 </div>
+
+
+
 
 
 
