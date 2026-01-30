@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/profile-pic.png" alt="Profile Picture" width="150" style="border-radius:50%;">
+</p>
+
+
 <h1 align="center">Hey 👋 I'm a Software Developer & DevOps Engineer</h1>
 
 <p align="center">
