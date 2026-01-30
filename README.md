@@ -17,14 +17,10 @@
   <img src="https://skillicons.dev/icons?i=redux" height="60" alt="Redux logo" />
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python logo" />
   <img src="https://skillicons.dev/icons?i=django" height="60" alt="Django logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="60" alt="Django logo" />
-  <span style="font-size:20px; margin-left:12px;">Django REST</span>
- <img src="https://skillicons.dev/icons?i=sql" height="60" alt="SQL logo" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL logo" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub Actions logo" />
-  <span style="font-size:20px;">UFW • Fail2Ban • SSH</span>
   <img src="https://skillicons.dev/icons?i=prometheus" height="60" alt="Prometheus logo" />
   <img src="https://skillicons.dev/icons?i=grafana" height="60" alt="Grafana logo" />
   <img src="https://skillicons.dev/icons?i=windows" height="60" alt="Windows logo" />
