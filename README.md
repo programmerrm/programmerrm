@@ -4,6 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;DevOps+Engineer;Build+Deploy+Automate;2%2B+Years+Experience" />
 </p>
 
+<p align="center">
+  Hi, I'm Rasel Mahmud 👋<br>
+  Diploma in CSE completed, currently pursuing BSc in CSE.<br>
+  Passionate about building scalable web applications, automating workflows, and working with modern DevOps practices.
+</p>
+
+
 <h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
