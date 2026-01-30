@@ -33,14 +33,13 @@
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="60" alt="Django logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="60" alt="Django REST logo" />
+  <span style="font-size:20px; margin-left:12px;">Django REST</span>
 </div>
 
 <!-- Database -->
 <h3 align="center">🗄 Database</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=sql" height="60" alt="SQL logo" />
+  <span style="font-size:20px;">SQL</span>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL logo" />
   <img width="12" />
@@ -52,13 +51,15 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" />
   <img width="12" />
+  <span style="font-size:20px;">Docker-Compose</span>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub Actions logo" />
+  <img width="12" />
+  <span style="font-size:20px;">UFW • Fail2Ban • SSH</span>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prometheus" height="60" alt="Prometheus logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=grafana" height="60" alt="Grafana logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="Linux logo" />
 </div>
 
 <!-- OS -->
@@ -68,6 +69,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux logo" />
 </div>
+
 
 
 
