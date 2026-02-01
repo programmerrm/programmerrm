@@ -9,28 +9,36 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;DevOps+Engineer;Build+Deploy+Automate;2%2B+Years+Experience" />
 </p>
 
-<h2 align="center">🛠 Tech Stack</h2>
+<p>
+  I’m a results-driven Software Developer & DevOps Engineer with a strong focus on building scalable, secure, and high-performance web applications using modern frontend and backend technologies.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML logo" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS logo" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind logo" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="JavaScript logo" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="TypeScript logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js logo" />
-  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="Redux logo" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python logo" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="Django logo" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL logo" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub Actions logo" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="60" alt="Prometheus logo" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="60" alt="Grafana logo" />
-  <img src="https://skillicons.dev/icons?i=windows" height="60" alt="Windows logo" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux logo" />
-</div>
+I specialize in frontend development with React.js, Next.js, TypeScript, and Redux, building responsive, user-friendly interfaces using HTML, CSS, and Tailwind CSS with an emphasis on performance and clean UI architecture.
+On the backend, I design and develop robust, API-driven systems using Python, Django, and Django REST Framework, delivering reliable and maintainable solutions through well-structured REST APIs.
+
+Beyond development, I actively handle DevOps and infrastructure workflows, containerizing applications, automating deployments, and managing cloud resources to ensure system stability, security, and scalability.
+
+🛠 Tech Stack:
+
+Frontend:
+React.js • Next.js • TypeScript • Redux • JavaScript • HTML • CSS • Tailwind CSS
+
+Backend:
+Python • Django • Django REST Framework • REST APIs
+
+Databases:
+PostgreSQL • MySQL • SQL
+
+DevOps & Infrastructure:
+Docker • Docker Compose • CI/CD • GitHub Actions • AWS
+UFW • Fail2Ban • SSH • Prometheus • Grafana
+
+Operating Systems:
+Linux • Windows
+
+I take pride in writing clean, testable, and scalable code, following best practices and modern design patterns. I believe great software is built through the synergy of strong engineering, thoughtful design, and streamlined deployment processes.
+
+Open to opportunities in Frontend, Full-Stack, and DevOps Engineering, where I can contribute to building impactful, production-ready systems. Let’s connect and create something meaningful.
+</p>
 
 
 
