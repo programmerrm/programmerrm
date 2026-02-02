@@ -20,24 +20,23 @@ Beyond development, I actively handle DevOps and infrastructure workflows, conta
 🛠 Tech Stack:
 
 Frontend:
-React.js • Next.js • TypeScript • Redux • JavaScript • HTML • CSS • Tailwind CSS
+• HTML • CSS • Tailwind CSS • JavaScript • TypeScript  • React.js • Next.js  • Redux 
 
 Backend:
-Python • Django • Django REST Framework • REST APIs
+• Python • Django • Django REST Framework
 
 Databases:
-PostgreSQL • MySQL • SQL
+• SQL • MySQL • PostgreSQL  
 
 DevOps & Infrastructure:
-Docker • Docker Compose • CI/CD • GitHub Actions • AWS
-UFW • Fail2Ban • SSH • Prometheus • Grafana
+• Docker • Docker Compose • GitHub Actions • UFW • Fail2Ban • SSH Security • Nginx • Prometheus • Grafana
 
 Operating Systems:
-Linux • Windows
+• Linux • Windows
 
 I take pride in writing clean, testable, and scalable code, following best practices and modern design patterns. I believe great software is built through the synergy of strong engineering, thoughtful design, and streamlined deployment processes.
 
-Open to opportunities in Frontend, Full-Stack, and DevOps Engineering, where I can contribute to building impactful, production-ready systems. Let’s connect and create something meaningful.
+Open to opportunities in Frontend, Backend, Full-Stack, and DevOps Engineering, where I can contribute to building impactful, production-ready systems. Let’s connect and create something meaningful.
 </p>
 
 <div align="center">
