@@ -23,10 +23,10 @@ Frontend:
 • HTML • CSS • Tailwind CSS • JavaScript • TypeScript  • React.js • Next.js  • Redux 
 
 Backend:
-• Python • Django • Django REST Framework
+• Python • Django • Django REST Framework • Fast API
 
 Databases:
-• SQL • MySQL • PostgreSQL  
+• SQL • MySQL • PostgreSQL
 
 DevOps & Infrastructure:
 • Docker • Docker Compose • GitHub Actions • UFW • Fail2Ban • SSH Security • Nginx • Prometheus • Grafana
