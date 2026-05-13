@@ -29,7 +29,7 @@ Databases:
 • SQL • MySQL • PostgreSQL • MongoDB
 
 DevOps & Infrastructure:
-• Docker • Docker Compose • GitHub Actions • UFW • Fail2Ban • SSH Security • Nginx • Prometheus • Grafana
+• Docker • Docker Compose • CI/CD Pipeline Setup • UFW • Fail2Ban • SSH Security • SSL/TLS Setup (Let's Encrypt) • Nginx • Prometheus • Grafana • Scheduled Cron Jobs  • Auto Backup & Recovery
 
 Operating Systems:
 • Linux • Windows
