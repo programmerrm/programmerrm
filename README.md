@@ -23,7 +23,7 @@ Frontend:
 • HTML • CSS • Tailwind CSS • JavaScript • TypeScript  • React.js • Next.js  • Redux 
 
 Backend:
-• Python • Django • Django REST Framework • Fast API • Node JS • Express JS
+• Python • Django • Django REST Framework • Fast API • Node Js • Express Js
 
 Databases:
 • SQL • MySQL • PostgreSQL • MongoDB
