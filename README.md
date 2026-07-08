@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rasel Mahmud 👋</h1>
 <h2 align="center">Software Developer & DevOps Engineer</h1>
 <p align="center">
-  Diploma in CSE completed, currently pursuing BSc in CSE.<br>
+  Completed a Diploma in Computer Science & Engineering and currently pursuing a BSc in CSE.<br>
   Passionate about building scalable web applications, automating workflows, and working with modern DevOps practices.
 </p>
 
@@ -23,18 +23,18 @@ Frontend:
 • HTML • CSS • Tailwind CSS • JavaScript • TypeScript  • React.js • Next.js  • Redux 
 
 Backend:
-• Python • Django • Django REST Framework • Fast API • Node Js • Express Js
+• Python • Django • Django REST Framework • FastAPI • Node.Js • Express.Js
 
-Databases:
+Databases Technologies:
 • SQL • MySQL • PostgreSQL • MongoDB
 
 DevOps & Infrastructure:
-• Docker • Docker Compose • CI/CD Pipeline Setup • UFW • Fail2Ban • SSH Security • SSL/TLS Setup (Let's Encrypt) • Nginx • Prometheus • Grafana • Scheduled Cron Jobs  • Auto Backup & Recovery
+• Docker • Docker Compose • CI/CD Pipelines • UFW • Fail2Ban • SSH Security • SSL/TLS (Let's Encrypt) • Nginx • Prometheus • Grafana • Scheduled Cron Jobs  • Automated Backup & Recovery
 
 Operating Systems:
 • Linux • Windows
 
 I take pride in writing clean, testable, and scalable code, following best practices and modern design patterns. I believe great software is built through the synergy of strong engineering, thoughtful design, and streamlined deployment processes.
 
-Open to opportunities in Frontend, Backend, Full-Stack, and DevOps Engineering, where I can contribute to building impactful, production-ready systems. Let’s connect and create something meaningful.
+Open to opportunities in Frontend, Backend, Full-Stack, and DevOps Engineering.
 </p>
