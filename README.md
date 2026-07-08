@@ -23,9 +23,9 @@ Frontend:
 • HTML • CSS • Tailwind CSS • JavaScript • TypeScript  • React.js • Next.js  • Redux 
 
 Backend:
-• Python • Django • Django REST Framework • FastAPI • Node.Js • Express.Js
+• Python • Django • Django REST Framework • FastAPI • Node.js • Express.js
 
-Databases Technologies:
+Database Technologies:
 • SQL • MySQL • PostgreSQL • MongoDB
 
 DevOps & Infrastructure:
