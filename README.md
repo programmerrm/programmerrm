@@ -19,15 +19,15 @@ Beyond development, I actively handle DevOps and infrastructure workflows, conta
 
 **Tech Stack:**
 
-**Frontend:**• HTML • CSS • Tailwind CSS • JavaScript • TypeScript  • React.js • Next.js  • Redux 
+**Frontend:** • HTML • CSS • Tailwind CSS • JavaScript • TypeScript  • React.js • Next.js  • Redux 
 
-**Backend:**• GO • Python • Django • Django REST Framework • FastAPI • Node.js • Express.js
+**Backend:** • GO • Python • Django • Django REST Framework • FastAPI • Node.js • Express.js
 
-**Database Technologies:**• SQL • MySQL • PostgreSQL • MongoDB
+**Database Technologies:** • SQL • MySQL • PostgreSQL • MongoDB
 
-**DevOps & Infrastructure:**• Docker • Docker Compose • Kubernetes • CI/CD • GitHub Actions • Jenkins• AWS (EC2, S3, IAM, VPC, CloudWatch)• Nginx • Traefik • Prometheus • Grafana• Networking (TCP/IP, DNS, HTTP/HTTPS, SSL/TLS) • Terraform • Ansible
+**DevOps & Infrastructure:** • Docker • Docker Compose • Kubernetes • CI/CD • GitHub Actions • Jenkins• AWS (EC2, S3, IAM, VPC, CloudWatch)• Nginx • Traefik • Prometheus • Grafana• Networking (TCP/IP, DNS, HTTP/HTTPS, SSL/TLS) • Terraform • Ansible
 
-**Operating Systems:**• Linux • Windows
+**Operating Systems:** • Linux • Windows
 
 I take pride in writing clean, testable, and scalable code, following best practices and modern design patterns. I believe great software is built through the synergy of strong engineering, thoughtful design, and streamlined deployment processes.
 
