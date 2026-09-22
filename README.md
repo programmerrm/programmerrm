@@ -17,21 +17,21 @@ On the backend, I design and develop robust, API-driven systems using Python, Dj
 
 Beyond development, I actively handle DevOps and infrastructure workflows, containerizing applications, automating deployments, and managing cloud resources to ensure system stability, security, and scalability.
 
-🛠 Tech Stack:
+**Tech Stack:**
 
-Frontend:
+**Frontend:**
 • HTML • CSS • Tailwind CSS • JavaScript • TypeScript  • React.js • Next.js  • Redux 
 
-Backend:
-• Python • Django • Django REST Framework • FastAPI • Node.js • Express.js
+**Backend:**
+• GO • Python • Django • Django REST Framework • FastAPI • Node.js • Express.js
 
-Database Technologies:
+**Database Technologies:**
 • SQL • MySQL • PostgreSQL • MongoDB
 
-DevOps & Infrastructure:
-• Docker • Docker Compose • CI/CD Pipelines • UFW • Fail2Ban • SSH Security • SSL/TLS (Let's Encrypt) • Nginx • Prometheus • Grafana • Scheduled Cron Jobs  • Automated Backup & Recovery
+**DevOps & Infrastructure:**
+• Docker • Docker Compose • Kubernetes • CI/CD • GitHub Actions • Jenkins • AWS (EC2, S3, IAM, VPC, CloudWatch) • Nginx • Traefik • Prometheus • Grafana • Networking (TCP/IP, DNS, HTTP/HTTPS, SSL/TLS) • Terraform • Ansible
 
-Operating Systems:
+**Operating Systems:**
 • Linux • Windows
 
 I take pride in writing clean, testable, and scalable code, following best practices and modern design patterns. I believe great software is built through the synergy of strong engineering, thoughtful design, and streamlined deployment processes.
