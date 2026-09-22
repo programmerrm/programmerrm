@@ -45,19 +45,11 @@ Beyond development, I actively handle DevOps and infrastructure workflows, conta
 • MongoDB
 
 **DevOps & Infrastructure:**
-• Docker 
-• Docker Compose 
-• Kubernetes 
-• CI/CD • GitHub Actions 
-• Jenkins 
-• AWS (EC2, S3, IAM, VPC, CloudWatch) 
-• Nginx 
-• Traefik 
-• Prometheus 
-• Grafana 
-• Networking (TCP/IP, DNS, HTTP/HTTPS, SSL/TLS) 
-• Terraform 
-• Ansible
+• Docker • Docker Compose • Kubernetes • CI/CD • GitHub Actions • Jenkins
+• AWS (EC2, S3, IAM, VPC, CloudWatch)
+• Nginx • Traefik • Prometheus • Grafana
+• Networking (TCP/IP, DNS, HTTP/HTTPS, SSL/TLS)
+• Terraform • Ansible
 
 **Operating Systems:**
 • Linux 
