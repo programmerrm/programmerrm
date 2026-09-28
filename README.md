@@ -17,7 +17,7 @@ On the backend, I design and develop robust, API-driven systems using Python, Dj
 
 Beyond development, I actively handle DevOps and infrastructure workflows, containerizing applications, automating deployments, and managing cloud resources to ensure system stability, security, and scalability.
 
-**Tech Stack:**
+**Tech Stack**
 
 **Frontend:** • HTML • CSS • Tailwind CSS • JavaScript • TypeScript  • React.js • Next.js  • Redux 
 
