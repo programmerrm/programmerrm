@@ -21,7 +21,7 @@ Beyond development, I actively handle DevOps and infrastructure workflows, conta
 
 **Frontend:** • HTML • CSS • Tailwind CSS • JavaScript • TypeScript  • React.js • Next.js  • Redux 
 
-**Backend:** • GO • Python • Django • Django REST Framework • FastAPI • Node.js • Express.js
+**Backend:** • Golang • Python • Django • Django REST Framework • FastAPI • Node.js • Express.js
 
 **Database Technologies:** • SQL • MySQL • PostgreSQL • MongoDB
 
