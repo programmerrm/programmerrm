@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rasel Mahmud 👋</h1>
-<h2 align="center">Software Developer & DevOps Engineer</h1>
+<h2 align="center">Software Engineer | Backend (Go, Python) | DevOps & Cloud</h1>
 <p align="center">
   Completed a Diploma in Computer Science & Engineering and currently pursuing a BSc in CSE.<br>
   Passionate about building scalable web applications, automating workflows, and working with modern DevOps practices.
